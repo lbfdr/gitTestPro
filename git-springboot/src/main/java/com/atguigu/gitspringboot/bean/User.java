@@ -18,4 +18,5 @@ public class User {
     private String master;
     private String hotfix2;
     private String push;
+    private String pull;
 }
