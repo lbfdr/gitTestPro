@@ -16,4 +16,5 @@ public class User {
     private String phone;
     private String hotfix;
     private String master;
+    private String hotfix2;
 }
