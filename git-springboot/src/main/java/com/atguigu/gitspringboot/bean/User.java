@@ -12,5 +12,7 @@ import lombok.Data;
 public class User {
 //    private String username;
     private Integer age;
-    private String email;
+ //   private String email;
+    private String phone;
+    private String hotfix;
 }
